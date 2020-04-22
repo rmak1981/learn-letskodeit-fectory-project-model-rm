@@ -1,0 +1,2 @@
+2020-04-22 17:04:960 INFO  BrowserSelector :25 - Launching Chrome Browser
+2020-04-22 17:04:522 INFO  HomePage :33 - click on practice link[[ChromeDriver: chrome on WINDOWS (329024bd44de0ea42c901cfbafdf962a)] -> xpath: //a[@class='fedora-navbar-link navbar-link']]
